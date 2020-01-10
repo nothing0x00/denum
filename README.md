@@ -1,6 +1,6 @@
 # Denum
 
-###A Simple Domain Enumeration Script
+### A Simple Domain Enumeration Script
 
 
 Denum is a simple tool using Python3 libraries to automate the searching of DNS records, whois records and reverse DNS records for a domain and its associated IP.
