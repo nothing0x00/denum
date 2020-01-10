@@ -1,0 +1,9 @@
+argparse
+dnspython
+ipwhois
+jsondate
+pythonwhois
+pprint
+requests
+termcolor
+tqdm
